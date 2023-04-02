@@ -38,6 +38,18 @@ ytd-page-manager{
     color: white !important;
 }
 
+#metadata-line.ytd-grid-video-renderer{
+    color: white !important;
+}
+
+#video-title.ytd-rich-grid-media{
+    color: white !important;
+}
+
+#author-text.yt-simple-endpoint.ytd-backstage-post-renderer{
+    color: white !important;
+}
+
 #channel-header.ytd-c4-tabbed-header-renderer{
     background-image: linear-gradient(-135deg,black, rgb(39, 3, 10));
 }
