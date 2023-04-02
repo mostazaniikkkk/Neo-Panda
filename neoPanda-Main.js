@@ -35,7 +35,7 @@ function loadChannelInfo(){
         console.log(neopanda + nombreCanal);
         var script = document.createElement("script");
         script.type = "text/javascript";
-        script.src = "https://cdn.statically.io/gh/mostazaniikkkk/Neo-Panda/main/neoPandaMain.js";
+        script.src = "https://cdn.statically.io/gh/mostazaniikkkk/Neo-Panda/main/PersonalData/canalConfig.js";
         document.getElementsByTagName("head")[0].appendChild(script)
     } else {
         console.log(neopanda + "No se ha reconocido el canal.")
