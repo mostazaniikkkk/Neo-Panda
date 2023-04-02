@@ -14,3 +14,4 @@ document.getElementsByTagName("head")[0].appendChild(css);
 var div = document.getElementById("links-holder"); // obtener el elemento div por su id
 console.log(neopanda + div);
 div.remove(); // eliminar el elemento div
+console.log("atata")
