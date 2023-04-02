@@ -8,7 +8,7 @@ const viejaFoto = "https://yt3.googleusercontent.com/ytc/AL5GRJUFL_q0g8ndDnQ3wog
 const css = document.createElement("link");
 css.rel = "stylesheet";
 css.type = "text/css";
-css.href = "file:///E:/Descargas/Youtube/external/yt-text.css";
+css.href = "https://github.com/mostazaniikkkk/Neo-Panda/blob/main/yt-text.css?raw=true";
 document.getElementsByTagName("head")[0].appendChild(css);
 
 var div = document.getElementById("links-holder"); // obtener el elemento div por su id
