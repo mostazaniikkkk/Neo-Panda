@@ -6,11 +6,35 @@ ytd-page-manager{
     color: white;
 }
 
-.style-scope{
-    color:white;
+#text.ytd-channel-name{
+    color: white !important;
 }
 
-.style-scope{
+.meta-item.ytd-c4-tabbed-header-renderer{
+    color: white !important;
+}
+
+#video-title.yt-simple-endpoint.ytd-grid-video-renderer{
+    color: white !important;
+}
+
+#content.ytd-channel-tagline-renderer{
+    color: white !important;
+}
+
+#video-title.ytd-reel-item-renderer{
+    color: white !important;
+}
+
+.tab-title{
+    color: white !important;
+}
+
+#title.ytd-shelf-renderer{
+    color: white !important;
+}
+
+#title.ytd-reel-shelf-renderer{
     color: white !important;
 }
 
