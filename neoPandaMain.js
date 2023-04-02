@@ -12,7 +12,7 @@ function isDebug(){
         css.href = "file:///E:/Descargas/Youtube/external/yt-text.css";
         debug = true;
     } else {
-        css.href = "https://cdn.statically.io/gh/mostazaniikkkk/Neo-Panda/main/yt-text.css";
+        css.href = "https://cdn.statically.io/gh/mostazaniikkkk/Neo-Panda/main/config.css";
         var div = document.getElementById("links-holder"); // obtener el elemento div por su id
         console.log(neopanda + div);
         div.remove(); // eliminar el elemento div
