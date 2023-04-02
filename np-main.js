@@ -31,7 +31,7 @@ function isDebug(){
 
 function loadChannelInfo(){
     var nombreCanal = document.querySelector("#text.ytd-channel-name");
-    if(nombreCanal === "watones y weones SA."){
+    if(nombreCanal.textContent === "watones y weones SA."){
         console.log(neopanda + nombreCanal);
         var script = document.createElement("script");
         script.type = "text/javascript";
@@ -46,4 +46,4 @@ const neopanda = "NeoPanda: "
 console.log(neopanda + "inicializado correctamente");
 console.log(neopanda + "Iniciando test")
 const debug = isDebug();
-console.log(neopanda + "El modo debug se encuentra en " +debug);
+loadChannelInfo()
