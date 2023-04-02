@@ -2,7 +2,7 @@
 const css = document.createElement("link");
 css.rel = "stylesheet";
 css.type = "text/css";
-css.href = "https://cdn.statically.io/gh/mostazaniikkkk/Neo-Panda/main/config.css";
+css.href = "https://cdn.statically.io/gh/mostazaniikkkk/Neo-Panda/main/PersonalData/config.css";
 document.getElementsByTagName("head")[0].appendChild(css)
 
 //Se borran los archivos que estan en el banner
